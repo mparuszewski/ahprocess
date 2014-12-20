@@ -9,6 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Maciej Paruszewski']
   spec.email         = ['maciek.paruszewski@gmail.com']
   spec.summary       = %q{AHProcess provides a way to create Analytic Hierarchy Process decissions with ease.}
+  spec.homepage      = 'https://github.com/pinoss/ahprocess'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0")
